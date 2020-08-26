@@ -44,20 +44,31 @@ Informe o tipo de licença que seu projeto possui para que as pessoas identifiqu
 
 Este projeto foi criado para exemplificar como seria um template de um arquivo readme.md.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/gpd38/curiosidadeCriandoReadmePadrao)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/logo.jpg" />
+</p>
 
-![GitHub](https://img.shields.io/github/license/gpd38/curiosidadeCriandoReadmePadrao)
+<p align="center">
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/curiosidadeCriandoReadmePadrao">
+	<img alt="GitHub" src="https://img.shields.io/github/license/gpd38/curiosidadeCriandoReadmePadrao">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/gpd38?style=social">
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/curiosidadeCriandoReadmePadrao">
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/gpd38?style=social)
+<p align="center">
+	<a href="#Funcionalidades">Funcionalidades</a> •
+	<a href="#Tecnologia">Tecnologia</a> •
+	<a href="#Configuração">Configuração</a> •
+	<a href="#Contribuição / Autor">Contribuição / Autor</a> •
+	<a href="#Licença">Licença</a>
+</p>
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/curiosidadeCriandoReadmePadrao">
-
-### Funcionalidades
+### 🚀 Funcionalidades
 
 * Template default readme
 * Linguagem markdown
 
-### 🛠Tecnologia
+### 🛠 Tecnologia
 
 ### ⚙️ Configuração
 
@@ -66,7 +77,7 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo r
 <table>
 	<tr>
 	    <td align="center">
-	    	<a href="https://www.linkedin.com/in/gustavopereiradias"><img style="border-radius: 50%;" src="URL-GITHUB" width="100px;" alt=""/>
+	    	<a href="https://www.linkedin.com/in/gustavopereiradias"><img style="border-radius: 50%;" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/user1.jpg" width="100px;" alt=""/>
 	    		<br /><b>Gustavo Dias</b>
 	    	</a>
 	    	<br />
