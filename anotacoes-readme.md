@@ -2,13 +2,13 @@
 
 * Passo 1: Inserir um título com o nome do projeto.
 
-* Passo 2: Inserir uma logo ou layout do projeto
-
-Mostrar uma visão sucinta do seu projeto através de uma imagem, chama mais atenção do que descrever em várias palavras o que é o projeto.
-
-* Passo 3: Inserir uma descrição do projeto.
+* Passo 2: Inserir uma descrição do projeto.
 
 A descrição do projeto serve para mostrar em poucas palavras a ideia/propósito do projeto.
+
+* Passo 3:Inserir uma logo ou layout do projeto
+
+Mostrar uma visão sucinta do seu projeto através de uma imagem, chama mais atenção do que descrever em várias palavras o que é o projeto.
 
 * Passo 4: Inserir Badges.
 
