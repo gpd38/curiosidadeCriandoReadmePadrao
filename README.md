@@ -26,17 +26,17 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 
 * XPTO-1
 <p align="center">
-	<img alt="Imagem da funcionalidade ZPTO-1 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/XPTO-1.jpg"/>
+	<img alt="Imagem da funcionalidade ZPTO-1 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/apto-1.jpg"/>
 </p>
 
 * ABCD-2
 <p align="center">
-	<img alt="Imagem da funcionalidade ABCD-2 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/ABCD-2.jpg"/>
+	<img alt="Imagem da funcionalidade ABCD-2 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/abcd-2.jpg"/>
 </p>
 
 * QWER-3
 <p align="center">
-	<img alt="Imagem da funcionalidade QWER-3 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/QWER-3.jpg"/>
+	<img alt="Imagem da funcionalidade QWER-3 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/qwer-3.jpg"/>
 </p>
 
 ### :hammer_and_wrench: Tecnologia
