@@ -26,7 +26,7 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 
 * XPTO-1
 <p align="center">
-	<img alt="Imagem da funcionalidade ZPTO-1 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/apto-1.jpg"/>
+	<img alt="Imagem da funcionalidade ZPTO-1 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/xpto-1.jpg"/>
 </p>
 
 * ABCD-2
