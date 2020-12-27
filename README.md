@@ -1,6 +1,6 @@
 # Criando Readme Padrão
 
-### Descrição do projeto
+### :book: Descrição do projeto
 Este projeto foi criado para exemplificar como seria um template de um arquivo "readme.md".
 
 <p align="center">
@@ -22,13 +22,24 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 	<a href="#Licença">Licença</a>
 </p>
 
-### 🚀 Funcionalidades
+### :rocket: Funcionalidades
 
-* Xpto-1
+* XPTO-1
+<p align="center">
+	<img alt="Imagem da funcionalidade ZPTO-1 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/XPTO-1.jpg"/>
+</p>
+
 * ABCD-2
-* Xyzw-3
+<p align="center">
+	<img alt="Imagem da funcionalidade ABCD-2 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/ABCD-2.jpg"/>
+</p>
 
-### 🛠 Tecnologia
+* QWER-3
+<p align="center">
+	<img alt="Imagem da funcionalidade QWER-3 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/QWER-3.jpg"/>
+</p>
+
+### :hammer_and_wrench: Tecnologia
 
 * Java
 * CSharp
@@ -36,13 +47,17 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 * Eclipse
 * Visual Studio
 
-### ⚙️ Configuração
+### :gear: Configuração
 
 * [Instalação do Java](#)
 * Instalação do CSharp
 * Instalação do NodeJS
 
-### 👨 Contribuição / Autor
+### :pencil2: Reprodução
+
+Após a instalação e configuração realizada no passo anterior, abra o prompt de comando e digite executar.nome-do-projeto.bat.
+
+### :man: Contribuição / Autor
 
 <table>
 	<tr>
@@ -52,11 +67,19 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 	    		<br /><b>Gustavo Dias</b>
 	    	</a>
 	    	<br />
-	    	👨‍🚀
+	    	:man_astronaut:
+	    </td>
+	    <td align="center">
+	    	<a href="https://www.linkedin.com/in/gustavopereiradias">
+	    		<img style="border-radius: 50%;" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/user2.jpg" width="100px;" alt="Fotografia do autor Gustavo Dias"/>
+	    		<br /><b>Gustavo Dias</b>
+	    	</a>
+	    	<br />
+	    	:man_astronaut:
 	    </td>
 	</tr>
 </table>
 
-### Licença
+### :copyright: Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
