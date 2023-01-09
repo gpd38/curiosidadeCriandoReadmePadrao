@@ -1,6 +1,15 @@
+<p align="center">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/curiosidadeCriandoReadmePadrao?color=blue">
+  <img alt="GitHub" src="https://img.shields.io/github/license/gpd38/curiosidadeCriandoReadmePadrao?color=red">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gpd38/curiosidadeCriandoReadmePadrao?color=green">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/gpd38/curiosidadeCriandoReadmePadrao?color=orange">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/curiosidadeCriandoReadmePadrao?color=pink">
+  <img alt="GitHub" src="https://img.shields.io/github/license/gpd38/curiosidadeCriandoReadmePadrao?color=white">
+</p>
+
 # Criando Readme Padrão
 
-### :book: Descrição do projeto
+## :book: Descrição do projeto
 Este projeto foi criado para exemplificar como seria um template de um arquivo "readme.md".
 
 <p align="center">
@@ -9,7 +18,6 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 
 <p align="center">
 	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/curiosidadeCriandoReadmePadrao">
-	<img alt="GitHub" src="https://img.shields.io/github/license/gpd38/curiosidadeCriandoReadmePadrao">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/gpd38?style=social">
 	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/curiosidadeCriandoReadmePadrao">
 </p>
@@ -22,7 +30,7 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 	<a href="#Licença">Licença</a>
 </p>
 
-### :rocket: Funcionalidades
+## :rocket: Funcionalidades
 
 * XPTO-1
 <p align="center">
@@ -39,7 +47,7 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 	<img alt="Imagem da funcionalidade QWER-3 no projeto" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/qwer-3.jpg"/>
 </p>
 
-### :hammer_and_wrench: Tecnologia
+## :hammer_and_wrench: Tecnologia
 
 * Java
 * CSharp
@@ -47,39 +55,42 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 * Eclipse
 * Visual Studio
 
-### :gear: Configuração
+## :gear: Configuração
 
 * [Instalação do Java](#)
 * Instalação do CSharp
 * Instalação do NodeJS
 
-### :pencil2: Reprodução
+## :pencil2: Reprodução
 
 Após a instalação e configuração realizada no passo anterior, abra o prompt de comando e digite executar.nome-do-projeto.bat.
 
-### :man: Contribuição / Autor
+## :man: Contribuição / Autor
 
 <table>
 	<tr>
-	    <td align="center">
-	    	<a href="https://www.linkedin.com/in/gustavopereiradias">
-	    		<img style="border-radius: 50%;" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/user1.jpg" width="100px;" alt="Fotografia do autor Gustavo Dias"/>
-	    		<br /><b>Gustavo Dias</b>
-	    	</a>
-	    	<br />
-	    	:man_astronaut:
-	    </td>
-	    <td align="center">
-	    	<a href="https://www.linkedin.com/in/gustavopereiradias">
-	    		<img style="border-radius: 50%;" src="https://raw.githubusercontent.com/gpd38/curiosidadeCriandoReadmePadrao/master/img/user2.jpg" width="100px;" alt="Fotografia do autor Gustavo Dias"/>
-	    		<br /><b>Gustavo Dias</b>
-	    	</a>
-	    	<br />
-	    	:man_astronaut:
-	    </td>
+		<td>
+			<img style="border-radius: 50%" width="100px" alt="Gustavo Dias" src="https://github.com/gpd38/gpd38/blob/main/img/user/gustavo.jpg" />
+		</td>
+		<td>
+			<img style="border-radius: 50%" width="100px" alt="Gustavo Dias" src="https://github.com/gpd38/gpd38/blob/main/img/user/gustavo.jpg" />
+		</td>
+	</tr>
+	<tr>
+		<td>:man_astronaut:<br>Gustavo Dias1</td>
+		<td>:man_astronaut:<br>Gustavo Dias2</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.linkedin.com/in/gustavopereiradias/" target="_blank">Linkedin</a>
+		</td>
+		<td>
+			<a href="https://www.linkedin.com/in/gustavopereiradias/" target="_blank">Linkedin</a>
+		</td>
 	</tr>
 </table>
 
-### :copyright: Licença
+## :copyright: Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
