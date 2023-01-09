@@ -17,12 +17,6 @@ Este projeto foi criado para exemplificar como seria um template de um arquivo "
 </p>
 
 <p align="center">
-	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/curiosidadeCriandoReadmePadrao">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/gpd38?style=social">
-	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/curiosidadeCriandoReadmePadrao">
-</p>
-
-<p align="center">
 	<a href="#Funcionalidades">Funcionalidades</a> •
 	<a href="#Tecnologia">Tecnologia</a> •
 	<a href="#Configuração">Configuração</a> •
@@ -77,8 +71,8 @@ Após a instalação e configuração realizada no passo anterior, abra o prompt
 		</td>
 	</tr>
 	<tr>
-		<td>:man_astronaut:<br>Gustavo Dias1</td>
-		<td>:man_astronaut:<br>Gustavo Dias2</td>
+		<td>Gustavo Dias1</td>
+		<td>Gustavo Dias2</td>
 	</tr>
 	<tr>
 		<td>
